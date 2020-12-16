@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/hoyeongrande/movie_app_2020/static/js/main.7f66166f.chunk.js",
+    "main.js.map": "/hoyeongrande/movie_app_2020/static/js/main.7f66166f.chunk.js.map",
+    "runtime-main.js": "/hoyeongrande/movie_app_2020/static/js/runtime-main.67a93666.js",
+    "runtime-main.js.map": "/hoyeongrande/movie_app_2020/static/js/runtime-main.67a93666.js.map",
+    "static/js/2.55c436f3.chunk.js": "/hoyeongrande/movie_app_2020/static/js/2.55c436f3.chunk.js",
+    "static/js/2.55c436f3.chunk.js.map": "/hoyeongrande/movie_app_2020/static/js/2.55c436f3.chunk.js.map",
+    "index.html": "/hoyeongrande/movie_app_2020/index.html",
+    "static/js/2.55c436f3.chunk.js.LICENSE.txt": "/hoyeongrande/movie_app_2020/static/js/2.55c436f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67a93666.js",
+    "static/js/2.55c436f3.chunk.js",
+    "static/js/main.7f66166f.chunk.js"
+  ]
+}
